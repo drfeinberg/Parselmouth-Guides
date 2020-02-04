@@ -6,6 +6,7 @@ dependencies:
   - python>=3.5
   - numpy
   - pandas
+  - matplotlib
   - pip
   - pip:
     - praat-parselmouth
