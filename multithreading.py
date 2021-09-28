@@ -1,7 +1,6 @@
 import parselmouth
 from glob import glob
-from multiprocessing import Pool
-from multiprocessing import Process, cpu_count
+from multiprocessing import Pool, cpu_count
 from time import time
 import matplotlib.pyplot as plt
 
@@ -33,7 +32,7 @@ def get_formants(filename):
 
 
 if __name__ == '__main__':
-    sound_filenames = sorted(glob("/home/david/work/all_vowels/*.wav"))
+    sound_filenames = sorted(glob("/all_vowels/*.wav"))
     timediffs = []
     time1s = []
     time2s = []
