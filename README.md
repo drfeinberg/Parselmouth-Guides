@@ -1,6 +1,6 @@
 # Parselmouth-Guides
 These are Jupyter Notebooks to help guide people to learn how to use Praat-Parselmouth  
-These guides used a lot of material from: https://parselmouth.readthedocs.io/en/latest/index.html
+These guides used a lot of material from: https://parselmouth.readthedocs.io/en/latest/index.html  
 03-01-01-01-01-01-01.wav Comes from [[Ravdess](https://zenodo.org/record/1188976)]
 
 
